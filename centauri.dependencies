@@ -1,7 +1,7 @@
 [
     {
-        "remote": "gh",
-        "repository": "LiquidSmooth-Devices/android_device_samsung_msm8960-common",
+        "remote": "lsd",
+        "repository": "android_device_samsung_msm8960-common",
         "target_path": "device/samsung/msm8960-common",
         "revision": "kitkat"
     },
